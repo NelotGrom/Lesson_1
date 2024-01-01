@@ -1,6 +1,9 @@
 # Folders 
 screens/
 
+# Files
+help.md
+
 # Logs
 logs
 *.log
